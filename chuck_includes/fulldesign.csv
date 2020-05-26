@@ -1,0 +1,251 @@
+Group,Image1,Image2,Image3,Image4,AudioFile,TargetLocation,Label,AdjTime,NounTime,NPTime,AudioDur
+A,longscissors.jpg,brain.jpg,orca.jpg,longnotepad.jpg,longscissors.mp3,1,critical no contrast,1011,1633,1011,2317
+A,longscissors.jpg,brain.jpg,orca.jpg,longnotepad.jpg,longscissors.mp3,2,critical with contrast,914,1526,914,2287
+A,longscissors.jpg,brain.jpg,orca.jpg,longnotepad.jpg,longscissors.mp3,3,filler,1007,1689,1007,2353
+A,longscissors.jpg,brain.jpg,orca.jpg,longnotepad.jpg,longscissors.mp3,4,contrast filler,957,1507,957,2028
+A,longscissors.jpg,brain.jpg,orca.jpg,longnotepad.jpg,longscissors.mp3,4,practice,957,1507,957,2028
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+B,globe.png,shortcandle.png,shortrocket.png,longrocket.png,shortrocket.mp3,3,critical with contrast,755,1278,755,1970
+B,shorthammer.png,briefcase.png,tennisball.png,shorthockeystick.png,shorthockeystick.mp3,4,critical no contrast,942,1407,942,2317
+B,fatpencil.png,skinnypencil.png,curtains.png,fatcat.png,fatpencil.mp3,1,critical with contrast,1050,1769,1050,2316
+B,firehydrant.png,shortwig.png,shortplunger.png,zebra.png,shortwig.mp3,2,critical no contrast,831,1376,831,1896
+B,cupcake.png,skinnyman.png,skinnycandycane.png,fatcandycane.png,skinnycandycane.mp3,3,critical with contrast,1043,1631,1043,2431
+B,skinnywoman.png,jellyfish.png,fatknife.png,skinnyknife.png,skinnyknife.mp3,4,critical with contrast,1073,1636,1073,2265
+B,skinnytie.png,bee.png,sink.png,skinnydog.png,skinnytie.mp3,1,critical no contrast,876,1582,876,2046
+B,guitar.png,widecolumn.png,widedoor.png,olives.png,widecolumn.mp3,2,critical no contrast,921,1453,921,2012
+B,balloon.png,thinstick.png,thinbandaid.png,octopus.png,thinbandaid.mp3,3,critical no contrast,1033,1669,1033,2315
+B,kite.png,pinecone.png,bigsuitcase.png,smallsuitcase.png,smallsuitcase.mp3,4,critical with contrast,856,1459,856,2424
+B,thinruler.png,hourglass.png,pear.png,thinarrow.png,thinruler.mp3,1,critical no contrast,967,1377,967,1967
+B,barn.png,shortbeer.png,shorttable.png,passport.png,shortbeer.mp3,2,critical no contrast,908,1671,908,2090
+B,lock.png,shortladder.png,shortjar.png,talljar.png,shortjar.mp3,3,critical with contrast,970,1671,970,2203
+B,bigburger.png,mittens.png,smallbowl.png,bigbowl.png,bigbowl.mp3,4,critical with contrast,1077,1455,1077,1998
+B,bigpotato.png,smallpotato.png,tissues.png,bigtruck.png,bigpotato.mp3,1,critical with contrast,940,1352,940,1993
+B,smallhouse.png,bighouse.png,bigmountain.png,umbrella.png,bighouse.mp3,2,critical with contrast,1019,1359,1019,2030
+B,earmuffs.png,bigtomato.png,bigcanoe.png,fireplace.png,bigcanoe.mp3,3,critical no contrast,943,1321,943,1785
+B,bigclothespin.png,cheesegrater.png,dustpan.png,biglightbulb.png,biglightbulb.mp3,4,critical no contrast,1048,1464,1048,2239
+B,smallcrab.png,bigcrab.png,backpack.png,smallskateboard.png,smallcrab.mp3,1,critical with contrast,1037,1777,1037,2358
+B,bigrazor.png,smallrazor.png,smallwhisk.png,cd.png,smallrazor.mp3,2,critical with contrast,948,1534,948,2225
+B,fence.png,smallbird.png,smallkey.png,binoculars.png,smallkey.mp3,3,critical no contrast,1030,1790,1030,2194
+B,smallclipboard.png,easel.png,bigspider.png,smallspider.png,smallspider.mp3,4,critical with contrast,888,1537,888,2177
+B,smalldesk.png,flipflops.png,caterpillar.png,smalleraser.png,smalldesk.mp3,1,critical no contrast,1081,1766,1081,1590
+B,rock.png,smalltrophy.png,smallpinwheel.png,grapes.png,smalltrophy.mp3,2,critical no contrast,897,1574,897,2180
+B,avocado.png,thickbook.png,thickpaintbrush.png,thinpaintbrush.png,thickpaintbrush.mp3,3,critical with contrast,871,1480,871,2282
+B,thickeyebrows.png,fan.png,onion.png,thickburrito.png,thickburrito.mp3,4,critical no contrast,1011,1635,1011,2229
+B,thickmustache.png,bowlingball.png,xylophone.png,thicktire.png,thickmustache.mp3,1,critical no contrast,924,1413,924,2325
+B,shortflamingo.png,tallflamingo.png,tallhat.png,domino.png,tallflamingo.mp3,2,critical with contrast,930,1343,930,2101
+B,crayon.png,tallman.png,tallstool.png,shirt.png,tallstool.mp3,3,critical no contrast,940,1458,940,2017
+B,tallgiraffe.png,pretzel.png,shortlamp.png,talllamp.png,talllamp.mp3,4,critical with contrast,1042,1597,1042,2350
+B,blanket.png,measuringcup.png,longpants.png,shortpants.png,blanket.mp3,1,contrast filler,,1123,1123,1835
+B,creditcard.png,wagon.png,smalltooth.png,bigtooth.png,wagon.mp3,2,contrast filler,,1137,1137,1826
+B,shortscrew.png,longscrew.png,sloth.png,kiwi.png,sloth.mp3,3,contrast filler,,951,951,1691
+B,tallwineglass.png,shortwineglass.png,controller.png,calendar.png,calendar.mp3,4,contrast filler,,1109,1109,1827
+B,toaster.png,pot.png,shortcorn.png,longcorn.png,toaster.mp3,1,contrast filler,,1024,1024,1690
+B,deodorant.png,salad.png,tallspeaker.png,shortspeaker.png,salad.mp3,2,contrast filler,,964,964,1684
+B,widebush.png,narrowbush.png,rooster.png,popsicle.png,rooster.mp3,3,contrast filler,,919,919,1535
+B,bigbeehive.png,smallbeehive.png,icecube.png,calculator.png,calculator.mp3,4,contrast filler,,943,943,1746
+B,acorn.png,remote.png,thickrollingpin.png,thinrollingpin.png,acorn.mp3,1,contrast filler,,1045,1045,1750
+B,snowglobe.png,icecream.png,bigfrog.png,smallfrog.png,icecream.mp3,2,contrast filler,,1038,1038,1693
+B,fatpickle.png,skinnypickle.png,goggles.png,hook.png,goggles.mp3,3,contrast filler,,1005,1005,1805
+B,shortgiftbag.png,tallgiftbag.png,soap.png,taco.png,taco.mp3,4,contrast filler,,1021,1021,1598
+B,rattle.png,tongs.png,thinsausage.png,thicksausage.png,rattle.mp3,1,contrast filler,,1035,1035,1601
+B,charger.png,dragon.png,bigcake.png,smallcake.png,dragon.mp3,2,contrast filler,,1014,1014,1659
+B,fatrug.png,skinnyrug.png,violin.png,safe.png,violin.mp3,3,contrast filler,,930,930,1664
+B,thickspoon.png,thinspoon.png,train.png,magnifyingglass.png,magnifyingglass.mp3,4,contrast filler,,940,940,2435
+B,surfboard.png,laptop.png,fatcomb.png,skinnycomb.png,surfboard.mp3,1,contrast filler,,924,924,1858
+B,pacifier.png,handcuffs.png,smalldiamond.png,bigdiamond.png,handcuffs.mp3,2,contrast filler,,1012,1012,1944
+B,shortdumbbell.png,longdumbbell.png,hanger.png,kettle.png,hanger.mp3,3,contrast filler,,978,978,1640
+B,smallbubble.png,bigbubble.png,coconut.png,treasurechest.png,treasurechest.mp3,4,contrast filler,,989,989,2031
+B,steeringwheel.png,microscope.png,dragonfly.png,golfclub.png,steeringwheel.mp3,1,filler,,1044,1044,1987
+B,piano.png,pen.png,lobster.png,bus.png,pen.mp3,2,filler,,900,900,1364
+B,ant.png,purse.png,sailboat.png,stroller.png,sailboat.mp3,3,filler,,914,914,1771
+B,mailbox.png,eggplant.png,drum.png,elephant.png,elephant.mp3,4,filler,,1100,1100,1799
+B,heart.png,carseat.png,chick.png,shoppingcart.png,heart.mp3,1,filler,,927,927,1587
+B,accordion.png,cherry.png,basketball.png,sock.png,cherry.mp3,2,filler,,1078,1078,1643
+B,pencilsharpener.png,gears.png,harp.png,policeman.png,harp.mp3,3,filler,,1054,1054,1740
+B,football.png,mushroom.png,helicopter.png,seahorse.png,seahorse.mp3,4,filler,,1020,1020,1926
+B,helmet.png,penguin.png,grenade.png,hotdog.png,helmet.mp3,1,filler,,925,925,1555
+B,grapefruit.png,bell.png,wine.png,ghost.png,bell.mp3,2,filler,,1052,1052,1505
+B,motorcycle.png,folder.png,glove.png,pineapple.png,glove.mp3,3,filler,,1157,1157,1791
+B,jumprope.png,leaf.png,map.png,carrot.png,carrot.mp3,4,filler,,945,945,1559
+B,lipstick.png,unicorn.png,soccerball.png,plane.png,lipstick.mp3,1,filler,,938,938,1805
+B,firefighter.png,lollipop.png,sushi.png,ticket.png,lollipop.mp3,2,filler,,971,971,1903
+B,box.png,knight.png,popcorn.png,skirt.png,popcorn.mp3,3,filler,,1005,1005,1756
+B,bow.png,pumpkin.png,baseball.png,turtle.png,turtle.mp3,4,filler,,1120,1120,1609
+B,egg.png,saw.png,pie.png,moose.png,egg.mp3,1,filler,,933,933,1457
+B,grasshopper.png,axe.png,medal.png,log.png,axe.mp3,2,filler,,1065,1065,1829
+B,horseshoe.png,lemon.png,penny.png,firetruck.png,penny.mp3,3,filler,,1134,1134,1597
+B,couch.png,necklace.png,cactus.png,planet.png,planet.mp3,4,filler,,1097,1097,1786
+B,sandwich.png,mattress.png,thread.png,plate.png,sandwich.mp3,1,filler,,996,996,2158
+B,cow.png,skull.png,doorknob.png,butter.png,skull.mp3,2,filler,,900,900,1584
+B,moon.png,apron.png,castle.png,spatula.png,castle.mp3,3,filler,,1024,1024,1730
+B,baby.png,sweater.png,ambulance.png,magnet.png,magnet.mp3,4,filler,,934,934,1844
+B,dolphin.png,watch.png,yogurt.png,ballerina.png,dolphin.mp3,1,filler,,1066,1066,1821
+B,soup.png,glue.png,cage.png,vacuum.png,glue.mp3,2,filler,,1098,1098,1623
+B,icecubetray.png,boot.png,scarf.png,dinosaur.png,scarf.mp3,3,filler,,962,962,1682
+B,horn.png,lungs.png,panther.png,peanut.png,peanut.mp3,4,filler,,1073,1073,1792
+B,gorilla.png,ladle.png,crutches.png,peach.png,gorilla.mp3,1,filler,,1023,1023,1585
+B,ostrich.png,fridge.png,top.png,stickynote.png,fridge.mp3,2,filler,,1008,1008,1742
+B,basket.png,martini.png,nailpolish.png,button.png,button.mp3,3,filler,,1122,1122,1648
+B,basket.png,martini.png,nailpolish.png,butterfly.png,butterfly.mp3,4,filler,,1114,1114,1822
+B,wreath.png,monkey.png,salt.png,bridge.png,wreath.mp3,1,filler,,1054,1054,1661
+B,thimble.png,robot.png,steak.png,nailclipper.png,robot.mp3,2,filler,,1162,1162,1940
+B,pliers.png,oreo.png,envelope.png,fries.png,envelope.mp3,3,filler,,1062,1062,1858
+B,foot.png,zipper.png,racket.png,paperclip.png,paperclip.mp3,4,filler,,1064,1064,2002
+B,parachute.png,streetlight.png,thumb.png,marker.png,parachute.mp3,1,filler,,1086,1086,2072
+B,swimsuit.png,tiger.png,trampoline.png,cleaver.png,tiger.mp3,2,filler,,1088,1088,1729
+B,slingshot.png,chopsticks.png,lizard.png,leg.png,lizard.mp3,3,filler,,984,984,1528
+B,birdhouse.png,worm.png,swing.png,drill.png,drill.mp3,4,filler,,970,970,1398
+B,skunk.png,beaker.png,binderclip.png,tape.png,skunk.mp3,1,filler,,872,872,1482
+B,snail.png,coffin.png,gum.png,lettuce.png,coffin.mp3,2,filler,,1027,1027,1766
+B,witch.png,turkey.png,pyramid.png,cheese.png,pyramid.mp3,3,filler,,1056,1056,1774
+B,fly.png,palmtree.png,recordplayer.png,donut.png,donut.mp3,4,filler,,1170,1170,1830
+B,skeleton.png,dishsoap.png,tack.png,recyclingbin.png,skeleton.mp3,1,filler,,964,964,1829
+B,bouncehouse.png,taxi.png,waterfall.png,dentures.png,taxi.mp3,2,filler,,1138,1138,1859
+B,camel.png,stamp.png,syringe.png,limo.png,syringe.mp3,3,filler,,1015,1015,1928
+B,peanutbutter.png,whale.png,sunscreen.png,hospital.png,hospital.mp3,4,filler,,920,920,1739
+B,bathtub.png,raspberry.png,pill.png,elf.png,bathtub.mp3,1,filler,,1025,1025,1812
+B,island.png,rose.png,oven.png,porcupine.png,rose.mp3,2,filler,,1020,1020,1843
+B,jelly.png,banjo.png,telescope.png,panda.png,telescope.mp3,3,filler,,1070,1070,2087
+B,stopsign.png,quilt.png,donkey.png,slinky.png,slinky.mp3,4,filler,,924,924,1767
+B,fire.png,checkbook.png,koala.png,scrunchie.png,fire.mp3,1,filler,,971,971,1629
+B,spring.png,hoodie.png,kangaroo.png,tray.png,hoodie.mp3,2,filler,,880,880,1348
+B,puzzle.png,towel.png,vendingmachine.png,stretcher.png,vendingmachine.mp3,3,filler,,1048,1048,2090
+B,waffles.png,cigar.png,diaper.png,parrot.png,parrot.mp3,4,filler,,1113,1113,1805
+B,cooler.png,ducttape.png,bat.png,beret.png,cooler.mp3,1,filler,,1143,1143,1722
+B,wolf.png,blender.png,earbuds.png,crane.png,blender.mp3,2,filler,,1114,1114,1773
+B,beet.png,indexcards.png,crib.png,paint.png,crib.mp3,3,filler,,1087,1087,1714
+B,crepe.png,scale.png,cheetah.png,pajamas.png,pajamas.mp3,4,filler,,1047,1047,1935
+B,starfish.png,car.png,sponge.png,coffeebean.png,starfish.mp3,1,practice,,988,988,2044
+B,milkshake.png,tent.png,belt.png,stethoscope.png,tent.mp3,2,practice,,1162,1162,1715
+B,toilet.png,smallhand.png,smalllion.png,biglion.png,smalllion.mp3,3,practice,961,1593,961,2160
+B,tulip.png,raccoon.png,gps.png,church.png,church.mp3,4,practice,,1092,1092,1847
+B,chocolatebar.png,mouse.png,longstraw.png,shortstraw.png,chocolatebar.mp3,1,practice,,1045,1045,1932
